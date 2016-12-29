@@ -44,4 +44,3 @@ exe/Recording/Debug/
 lib/3rdParty/dlib/Debug/
 lib/local/FaceAnalyser/Debug/
 lib/local/LandmarkDetector/Debug/
-lib/local/LandmarkDetector/include/PathConfig.h
